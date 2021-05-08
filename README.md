@@ -7,7 +7,7 @@ Screenshots:
 ***
 ![](screenshots/hero2.png)
 ***
-![](screenshots/work1.png)
+![](screenshots/work.png)
 ***
 ![](screenshots/work2.png)
 ***
